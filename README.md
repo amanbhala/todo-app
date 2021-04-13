@@ -71,7 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 npx create-react-app todo_app - To download react and to setup the entire project.
+
 npm start - To start the react project.
-firebase init - To deploy the application 
-npm run build - To run the application
-firebase deploy - To deploy the application
+
+firebase init - To deploy the application. 
+
+npm run build - To run the application.
+
+firebase deploy - To deploy the application.
